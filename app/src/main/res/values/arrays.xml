@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transaction_types">
+        <item>Receita</item>
+        <item>Despesa</item>
+    </string-array>
+
+    <string-array name="transaction_categories">
+        <item>Alimentação</item>
+        <item>Transporte</item>
+        <item>Moradia</item>
+        <item>Saúde</item>
+        <item>Lazer</item>
+        <item>Educação</item>
+        <item>Salário</item>
+        <item>Investimentos</item>
+        <item>Outros</item>
+    </string-array>
+</resources>
