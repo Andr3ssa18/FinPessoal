@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transaction_categories">
+        <item>Selecione a importância</item>
+        <item>Muito Necessário</item>
+        <item>Necessário</item>
+        <item>Indiferente</item>
+        <item>Desnecessário</item>
+        <item>Muito Desnecessário</item>
+    </string-array>
+
+    <string name="select_importance">Selecione a importância</string>
+</resources>

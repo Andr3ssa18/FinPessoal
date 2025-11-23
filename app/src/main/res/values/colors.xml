@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="yellow">#FFFFD700</color>
+    <color name="dark_gray">#FF1E1E1E</color>
+    <color name="light_gray">#FF333333</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#666666</color>
+
+    <color name="holo_blue_light">#FF33B5E5</color>
+    <color name="holo_blue_dark">#FF0099CC</color>
+    <color name="holo_green_light">#FF99CC00</color>
+    <color name="holo_green_dark">#FF669900</color>
+    <color name="holo_red_light">#FFFF4444</color>
+    <color name="holo_red_dark">#FFCC0000</color>
+    <color name="holo_orange_light">#FFFFBB33</color>
+    <color name="holo_orange_dark">#FFFF8800</color>
+    <color name="holo_purple_light">#FFAA66CC</color>
+    <color name="holo_purple_dark">#FF9933CC</color>
+
+    <color name="primaryBlack">#FF000000</color>
+    <color name="primaryYellow">#FFFFD700</color>
+    <color name="surface">#FF1E1E1E</color>
+    <color name="onSurface">#FFFFFFFF</color>
+    <color name="onPrimary">#FF000000</color>
+
+    <color name="primaryYellowLight">#FFFFEC40</color>
+    <color name="primaryYellowDark">#FFFFC400</color>
+
+    <color name="success_green">#FF4CAF50</color>
+    <color name="warning_orange">#FFFF9800</color>
+    <color name="error_red">#FFF44336</color>
+    <color name="info_blue">#FF2196F3</color>
+
+    <color name="ic_launcher_background">#000000</color>
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+    <color name="text_disabled">#80FFFFFF</color>
+    <color name="text_yellow">#FFFFD700</color>
+
+    <color name="background">#FF000000</color>
+    <color name="background_card">#FF1E1E1E</color>
+    <color name="background_elevated">#FF252525</color>
+
+    <color name="outline">#FF404040</color>
+    <color name="outline_variant">#FF4A4A4A</color>
+    <color name="divider">#FF2D2D2D</color>
+
+    <color name="ripple_color">#1AFFFFFF</color>
+    <color name="hover_color">#0DFFFFFF</color>
+    <color name="focus_color">#1AFFD700</color>
+
+    <color name="income_green">#FF4CAF50</color>
+    <color name="expense_red">#FFF44336</color>
+    <color name="investment_blue">#FF2196F3</color>
+    <color name="savings_purple">#FF9C27B0</color>
+
+    <color name="shadow_low">#0A000000</color>
+    <color name="shadow_medium">#1F000000</color>
+    <color name="shadow_high">#3D000000</color>
+
+    <color name="surface_container">#FF2D2D2D</color>
+    <color name="surface_container_high">#FF363636</color>
+    <color name="surface_container_highest">#FF404040</color>
+
+    <color name="surface_bright">#FF4A4A4A</color>
+    <color name="surface_dim">#FF141414</color>
+
+
+    <color name="circle_background_yellow">#FFFFD700</color>
+    <color name="circle_background_green">#FF4CAF50</color>
+    <color name="circle_background_red">#FFF44336</color>
+
+    <color name="button_disabled">#80333333</color>
+    <color name="button_pressed">#FFFFC400</color>
+
+    <color name="text_success">#FF4CAF50</color>
+    <color name="text_warning">#FFFF9800</color>
+    <color name="text_error">#FFF44336</color>
+
+    <color name="card_highlight">#FF2D2D2D</color>
+    <color name="card_selected">#FF404040</color>
+
+    <color name="loading_background">#80404040</color>
+    <color name="loading_foreground">#FF666666</color>
+
+    <color name="chart_primary">#FFFFD700</color>
+    <color name="chart_secondary">#FF4CAF50</color>
+    <color name="chart_tertiary">#FFF44336</color>
+    <color name="chart_background">#FF1E1E1E</color>
+    <color name="chart_grid">#FF404040</color>
+
+    <color name="form_valid">#FF4CAF50</color>
+    <color name="form_invalid">#FFF44336</color>
+    <color name="form_warning">#FFFF9800</color>
+
+
+    <color name="badge_success">#FF4CAF50</color>
+    <color name="badge_warning">#FFFF9800</color>
+    <color name="badge_error">#FFF44336</color>
+    <color name="badge_info">#FF2196F3</color>
+
+    <color name="overlay_dark">#80000000</color>
+    <color name="overlay_light">#80FFFFFF</color>
+    <color name="selection_primary">#1AFFD700</color>
+    <color name="selection_secondary">#1AFFFFFF</color>
+</resources>
